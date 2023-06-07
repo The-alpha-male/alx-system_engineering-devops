@@ -11,3 +11,5 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 7-movethatfile moves betty from /tmp/ to /tmp/my_first_directory
 
 9-firstdirdeletion deletes directory
+
+10-back has a script that changes the working directory to the previous one
