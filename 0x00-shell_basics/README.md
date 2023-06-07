@@ -23,3 +23,5 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 14-copy_html copies all html files to parent directory
 
 102-tree makes directories welcome/ welcom/to and welcome/to/school
+
+103-commas lisrs all files and directories of current directory separated by commas
