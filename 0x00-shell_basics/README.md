@@ -21,3 +21,5 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 13-symbolic_link creates a symbolic link to /bin/ls in the current working directory
 
 14-copy_html copies all html files to parent directory
+
+102-tree makes directories welcome/ welcom/to and welcome/to/school
