@@ -15,3 +15,5 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 10-back has a script that changes the working directory to the previous one
 
 11-lists lists al files in the current directory and the parent working directory in long format
+
+12-file_type prints the file name iamfile
