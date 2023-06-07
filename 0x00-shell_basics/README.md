@@ -7,3 +7,5 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 5-listfilesdigitonly contains the command to display current directory contents in long format with user and group IDs displayed numerically and hidden files
 
 6-firstdirectory creates a script with 2 directories my_first_directory in tmp
+
+7-movethatfile moves betty from /tmp/ to /tmp/my_first_directory
