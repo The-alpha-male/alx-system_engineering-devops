@@ -27,3 +27,4 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 103-commas lisrs all files and directories of current directory separated by commas
 
 school.mgc creates a magic file
+
