@@ -17,3 +17,5 @@ the 2-bring_me_home has the command to change the working diretory to home direc
 11-lists lists al files in the current directory and the parent working directory in long format
 
 12-file_type prints the file name iamfile
+
+13-symbolic_link creates a symbolic link to /bin/ls in the current working directory
