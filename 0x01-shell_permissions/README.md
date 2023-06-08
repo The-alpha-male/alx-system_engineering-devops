@@ -18,3 +18,4 @@
 
 9-JOHN_Doe sets the mode of file hello to -rwxr-x-wx 1 
 
+10-mirror_permissions sets the mode of hello file to same as olleh mode
