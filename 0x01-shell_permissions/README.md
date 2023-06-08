@@ -15,3 +15,6 @@
 7-everybody adds execution permission to the owner, group owner and other users
 
 8-James-bond sets permmission to other users and removes them from owner and group
+
+9-JOHN_Doe sets the mode of file hello to -rwxr-x-wx 1 
+
