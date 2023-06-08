@@ -21,3 +21,5 @@
 10-mirror_permissions sets the mode of hello file to same as olleh mode
 
 11-directories_permissions adds execute permission to all subdirectories of current directory
+
+12-directory_permissions creates directory with 752 permissions in the working directory
