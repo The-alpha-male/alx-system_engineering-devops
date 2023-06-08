@@ -1,5 +1,5 @@
 #!/bin/bash
-file="hello" && current_owner=$(stat -c '%U' "$file") && [ "$current_owner" == "guillaume" ] && chown betty "$file"
+chown  --from=Guillaume betty hello
 
 
 
