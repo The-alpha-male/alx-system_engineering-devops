@@ -11,3 +11,5 @@
 5-execute adds execute permissions to the owner of the file
 
 6-multiple_permissions adds execue permission to the owner and the group owner and reads permission to other users
+
+7-everybody adds execution permission to the owner, group owner and other users
