@@ -27,3 +27,5 @@
 13-change_group changes the group owner
 
 100-change_owner_and_group changes theowner and group owner
+
+101-symbolic_link_permissions changes owner and group owner of hellow to vincent
