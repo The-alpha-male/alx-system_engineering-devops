@@ -13,3 +13,5 @@
 6-multiple_permissions adds execue permission to the owner and the group owner and reads permission to other users
 
 7-everybody adds execution permission to the owner, group owner and other users
+
+8-James-bond sets permmission to other users and removes them from owner and group
