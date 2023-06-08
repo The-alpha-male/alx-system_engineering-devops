@@ -1,4 +1,5 @@
 #!/bin/bash
-chown betty hello || echo "The file is not owned by guillaume."
+file="hello" && current_owner=$(stat -c '%U' "$file") && [ "$current_owner" == "guillaume" ] && chown betty "$file"
+
 
 
