@@ -1,2 +1,4 @@
 #!/bin/bash
-if [ "$(stat -c %U hello)" = "guillaume" ]; then chown betty hello; fi
+chown betty hello || echo "The file is not owned by guillaume."
+
+
