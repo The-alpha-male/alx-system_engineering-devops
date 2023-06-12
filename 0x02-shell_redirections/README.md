@@ -15,4 +15,5 @@
 14-findthatword finds lines containing pattern "root"
 15 displays the number of lines that contain the pattern "bin"
 16 displays lines containing the pattern “root” and 3 lines after them in the file
-17 displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+17 displays all the lines in the file /etc/passwd that do not contain the pattern “bin”
+18 Display all lines of the file /etc/ssh/sshd_config starting with a letter.
