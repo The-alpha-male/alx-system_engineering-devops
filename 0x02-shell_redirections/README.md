@@ -8,4 +8,5 @@
 7-line creates a file with a text in it
 8-cwd_state writes a script that writes into a file
 9-duplicate_last_line duplicates the last line
-10-no_more_js deletes all the regular files 
+10-no_more_js deletes all the regular files
+11-directories counts the number of directories and sub directories
