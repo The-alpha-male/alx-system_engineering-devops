@@ -21,3 +21,4 @@
 20 removes all letters C and c
 21 reverses input
 22 lists all users and their directories
+101  finds all empty files and directories in the current directory and all sub-directories.
