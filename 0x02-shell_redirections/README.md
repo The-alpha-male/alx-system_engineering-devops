@@ -6,3 +6,4 @@
 5-firstlines displays 10 first lines of file
 6-third_line prints the third line
 7-line creates a file with a text in it
+8-cwd_state writes a script that writes into a file
