@@ -13,3 +13,5 @@
 9 divides
 
 10 power of love
+
+11 converts base 2 to base 10
