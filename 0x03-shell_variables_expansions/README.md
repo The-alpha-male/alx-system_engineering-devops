@@ -11,3 +11,5 @@
 8 prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 
 9 divides
+
+10 power of love
