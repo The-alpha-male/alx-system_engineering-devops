@@ -4,4 +4,6 @@
 4-global_variables prints environments
 5-Create a script that lists all local variables and environment variables, and functions
 
-6 creates a script with local varibale 
+6 creates a script with local varibale
+
+7 creates a script with global variable
