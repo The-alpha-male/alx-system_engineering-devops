@@ -15,3 +15,5 @@
 10 power of love
 
 11 converts base 2 to base 10
+
+12 prints all possible combinations of two letters, except oo
