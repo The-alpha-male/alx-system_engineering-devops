@@ -21,3 +21,5 @@
 13  prints a number with two decimal places, followed by a new line
 
 14 decimal-to-hexadecimal
+
+15 encodes and decodes text using the rot13 encryption.
