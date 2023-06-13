@@ -22,4 +22,7 @@
 
 14 decimal-to-hexadecimal
 
-15 encodes and decodes text using the rot13 encryption.
+15 encodes and decodes text using the rot13 encryption
+
+16 prints every other line from the input starting with the first line
+
