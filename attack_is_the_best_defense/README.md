@@ -9,7 +9,7 @@ In this project, we will not go over ARP spoofing, but we’ll start by sniffing
 
 Your mission is to execute `user_authenticating_into_server` locally on your machine and, using `tcpdump`, sniff the network to find my password. Once you find it, paste the password in your answer file. 
 
-You can download the script user_authenticating_into_server [here]
+You can download the script user_authenticating_into_server [here](https://github.com/The-alpha-male/alx-system_engineering-devops/blob/master/attack_is_the_best_defense/user_authenticating_into_server)
 ### This script will not work on a Docker container or Mac OS, use your Ubuntu vagrant machine or any other Linux machine.
 
 ## 1-dictionary_attack
