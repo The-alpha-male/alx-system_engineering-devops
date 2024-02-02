@@ -1,8 +1,5 @@
-!#/usr/bin/env bash
-# Bash script to fix nginx
+#!/usr/bin/env bash
+# configures nginx to start listening to port 80
 
-string-1="8080"
-new_string-1="80"
-
-sed -i "s/$string-1/$new_string-1/g" /etc/nginx/sites-enabled/default
+sudo ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 sudo service nginx restart
