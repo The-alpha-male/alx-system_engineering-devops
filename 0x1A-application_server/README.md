@@ -4,7 +4,7 @@
 
 Your web infrastructure is already serving web pages via Nginx that you installed in your first web stack project. While a web server can also serve dynamic content, this task is usually given to an application server. In this project you will add this piece to your infrastructure, plug it to your Nginx and make is serve your Airbnb clone project.
 
-#### Resources:
+##### Resources:
 * [Application server vs Web server](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
 * [How to Serve a Flask Application with Gunicorn and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-a-flask-application-with-gunicorn-and-nginx-on-ubuntu-16-04)
 * [Running Gunicorn](http://docs.gunicorn.org/en/stable/run.html)
